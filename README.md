@@ -1,4 +1,4 @@
-## Hi there 👋 01/03/2025
+## Hi there 👋
 
 <!--
 **cty925/cty925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
